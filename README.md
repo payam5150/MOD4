@@ -24,6 +24,6 @@ What are they recommending? Movies, television series, songs, consumer goods, po
 
 
 ----------------------------------------------------------------------------------------------
-Conclusion: Our analysis show that there are few variables with more predictive value for the diagnosis. Using PCA, we confirmed there are 5 variables that can be used to ensure explain the variance of 90% of the dataset.
+<b>Conclusion: Our analysis sho the movies that are highly correlated with "Forrest Gump (1994)". The movies on the list are some of the most famous movies Hollywood movies, and since "Forest Gump (1994)" is also a very famous movie, there is a high chance that these movies are correlated which we recommend to our viewers.
 ----------------------------------------------------------------------------------------------
-<b>Technical Team:</b> Please open mod-3-project.ipynb to view the python codes
+<b>Technical Team:</b> Please open mod-4-project.ipynb to view the python codes
