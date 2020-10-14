@@ -24,6 +24,6 @@ What are they recommending? Movies, television series, songs, consumer goods, po
 
 
 ----------------------------------------------------------------------------------------------
-<b>Conclusion: Our analysis show the movies that are highly correlated with "Forrest Gump (1994)". The movies on the list are some of the most famous Hollywood movies and since "Forest Gump (1994)" is also a very famous movie, there is a high chance that these movies are correlated which we recommend to our viewers.</b>
+<b>Conclusion: Our research show the movies that are highly correlated with "Forrest Gump (1994)". The movies on the list are some of the most famous Hollywood movies and since "Forest Gump (1994)" is also a very famous movie, there is a high chance that these movies are correlated which we recommend to our viewers.</b>
 ----------------------------------------------------------------------------------------------
 <b>Technical Team:</b> Please open mod-4-project.ipynb to view the python codes
