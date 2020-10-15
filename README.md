@@ -27,9 +27,7 @@ Let’s look at the top 3 websites on the Internet: Google, YouTube, and Faceboo
 
 <b>Recommender systems form the very foundation of these technologies.</b>
 
-<b>Google:</b> Search results
-
-They are why Google is the most successful technology company today.
+<b>Google:</b> Search results: They are why Google is the most successful technology company today.
 
 <b>YouTube:</b> Video dashboard
 
