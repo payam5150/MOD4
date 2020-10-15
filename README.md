@@ -6,11 +6,11 @@
 
 <b>Date: </b>10-19-20
 
-<b>Data Source:</b> 
-The MovieLens Dataset: Ratings and Movie Dataset
----------------------------------------------------------------------------------------
+<b>Project Statement:</b> As a Data Scientist, I have been tasked with making movie recommendations based on the MovieLens dataset from the GroupLens research lab at the University of Minnesota. 
 
-<b>Project Statement:</b> As a Data Scientist, I have been tasked with recommending 4 movies that are similar to the Forest Gump . 
+---------------------------------------------------------------------------------------
+<b>Data Source:</b> 
+https://grouplens.org/datasets/movielens/latest/
 
 ---------------------------------------------------------------------------------------
 <b>Project Goal: </b> To build a model that provides top 5 movie recommendations to a user, based on their ratings of other movies from a database from the University of Minnesota.
