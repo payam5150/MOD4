@@ -21,19 +21,19 @@ Who uses them?</b> Podcasts, social media applications, media streaming services
 <b>What are they recommending?</b> Movies, television series, songs, consumer goods, podcast channels, etc.
 
 ---------------------------------------------------------------------------------------
-Believe it or not, almost all online businesses today make use of recommender systems in some way or another.
+<b>Believe it or not, almost all online businesses today make use of recommender systems in some way or another.</b>
 
 Let’s look at the top 3 websites on the Internet: Google, YouTube, and Facebook.
 
 Recommender systems form the very foundation of these technologies.
 
-Google: Search results
+<b>Google:</b> Search results
 
 They are why Google is the most successful technology company today.
 
-YouTube: Video dashboard
+<b>YouTube:</b> Video dashboard
 
-Facebook: So powerful that world governments are worried that the newsfeed has too much influence on people! 
+<b>Facebook:</b> So powerful that world governments are worried that the newsfeed has too much influence on people! 
 
 ----------------------------------------------------------------------------------------------
 <b>Conclusion: Our research show the movies that are highly correlated with "Forrest Gump (1994)". The movies on the list are some of the most famous Hollywood movies and since "Forest Gump (1994)" is also a very famous movie, there is a high chance that these movies are correlated which we recommend to our viewers.</b>
