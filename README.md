@@ -14,11 +14,11 @@ The MovieLens Dataset: Ratings and Movie Dataset
 
 ---------------------------------------------------------------------------------------
 
-<b>What are Recommendation Systems?</b>
+<b>What are Recommendation Systems?
 
-Who uses them? Podcasts, social media applications, media streaming services, online shopping, etc.
+Who uses them?</b> Podcasts, social media applications, media streaming services, online shopping, etc.
 
-What are they recommending? Movies, television series, songs, consumer goods, podcast channels, etc.
+<b>What are they recommending?</b> Movies, television series, songs, consumer goods, podcast channels, etc.
 
 
 
