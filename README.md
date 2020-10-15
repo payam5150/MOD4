@@ -25,7 +25,7 @@ Who uses them?</b> Podcasts, social media applications, media streaming services
 
 Let’s look at the top 3 websites on the Internet: Google, YouTube, and Facebook.
 
-Recommender systems form the very foundation of these technologies.
+<b>Recommender systems form the very foundation of these technologies.</b>
 
 <b>Google:</b> Search results
 
