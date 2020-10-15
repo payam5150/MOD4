@@ -26,7 +26,7 @@ Who uses them?</b> Podcasts, social media applications, media streaming services
 ---------------------------------------------------------------------------------------
 <b>Believe it or not, almost all online businesses today make use of recommender systems in some way or another.</b>
 
-Let’s look at the top 3 websites on the Internet: Google, YouTube, and Facebook.
+Let’s look at the top 3 websites on the Internet: <b>Google, YouTube, and Facebook.</b>
 
 <b>Recommender systems form the very foundation of these technologies.</b>
 
