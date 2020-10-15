@@ -13,7 +13,7 @@
 https://grouplens.org/datasets/movielens/latest/
 
 ---------------------------------------------------------------------------------------
-<b>Project Goal: </b> To build a model that provides top 5 movie recommendations to a user, based on their ratings of other movies from a database from the University of Minnesota.
+<b>Project Goal: </b> To build a model that provides top 5 movie recommendations to a user, based on their ratings of other movies.
 
 ---------------------------------------------------------------------------------------
 
