@@ -40,10 +40,13 @@ Let’s look at the top 3 websites on the Internet: <b>Google, YouTube, and Face
 ----------------------------------------------------------------------------------------------
 <b>Conclusion:</b> If you are a fan of "Forrest Gump (1994)", we recommend the following movies:
 
-<b>#1.Mr. Holland's Opus
-#2.Pocahontas
-#3.Grumpier Old Men 
-#4.Caddyshack</b>  
+<b>1.Mr. Holland's Opus
+
+2.Pocahontas
+
+3.Grumpier Old Men 
+
+4.Caddyshack</b>  
 
 The movies on the list are some of the most famous Hollywood movies and since "Forest Gump (1994)" is also a very famous movie, there is a high chance that these movies are correlated which we recommend to our viewers.</b>
 ----------------------------------------------------------------------------------------------
