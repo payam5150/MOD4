@@ -17,7 +17,7 @@ https://grouplens.org/datasets/movielens/latest/
 
 ---------------------------------------------------------------------------------------
 
-<b>What are Recommendation Systems?
+<b>What are Recommendation Systems? A subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item.
 
 Who uses them?</b> Podcasts, social media applications, media streaming services, online shopping, etc.
 
