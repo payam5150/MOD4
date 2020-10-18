@@ -50,6 +50,6 @@ Let’s look at the top 3 websites on the Internet: <b>Google, YouTube, and Face
 
 4. Caddyshack</b>  
 
-The movies on the list are some of the most famous Hollywood movies and since "Forest Gump (1994)" is also a very famous movie, there is a high chance that these movies are correlated which we recommend to our viewers.</b>
+The movies that we are recommending are some of the most famous Hollywood movies with a high number of ratings. Since "Forest Gump (1994)" is also a very famous movie, there is a high chance that these movies are correlated which we recommend to our viewers. Grab some popcorn and enjoy!!!!!!!!!!</b>
 ----------------------------------------------------------------------------------------------
 <b>Technical Team:</b> Please open mod-4-project.ipynb to view the python codes
