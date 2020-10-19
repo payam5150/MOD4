@@ -21,8 +21,6 @@ https://grouplens.org/datasets/movielens/latest/
 
 <b>Who uses them?</b> Podcasts, social media applications, media streaming services, online shopping, etc.
 
-<b>What are they recommending?</b> Movies, television series, songs, consumer goods, podcast channels, etc.
-
 ---------------------------------------------------------------------------------------
 <b>Believe it or not, almost all online businesses today make use of recommender systems in some way or another.</b>
 
