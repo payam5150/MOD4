@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------  
 <b>Author:</b> Payam Abbasi & Dorsa Ghahri
 
-<b>Email: </b>AbbasiRealty@Gmail.com
+<b>Email: </b>AbbasiRealty@Gmail.com & Dorsa.ghahri@gmail.com
 
 <b>Date: </b>10-19-20
 
