@@ -1,6 +1,6 @@
 <b><center> <h1 style="color:red;font-size:40px;"> Movie Recommendation System </b></h1></center>
 ---------------------------------------------------------------------------------------  
-<b>Author:</b> Payam Abbasi
+<b>Author:</b> Payam Abbasi & Dorsa Ghahri
 
 <b>Email: </b>AbbasiRealty@Gmail.com
 
